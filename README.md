@@ -11,4 +11,4 @@ I looked at X,Y,Z
 
 ## My Notebook
 
-*[Run my Colab Notebook]()
+* [Run my Colab Notebook](https://github.com/Ian880729/DS_Demo/blob/0644b3ea47c50e09c46736f793df82fb99a5c018/ds_notebook.ipynb)
